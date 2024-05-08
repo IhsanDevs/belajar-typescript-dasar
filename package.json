@@ -4,7 +4,8 @@
   "repository": {
     "url": "https://github.com/IhsanDevs/belajar-typescript-dasar"
   },
-  "description": "Hasil belajar Typescript Dasar dari Programming Zaman Now (8 May 2024)",
+  "readme": "README.md",
+  "description": "Hasil belajar Typescript Dasar dari Programmer Zaman Now (8 May 2024)",
   "main": "index.js",
   "scripts": {
     "test": "jest",
